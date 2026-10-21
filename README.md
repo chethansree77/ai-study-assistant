@@ -89,3 +89,12 @@ Follow the numbered menu in the terminal to select a study feature.
 **Chintha Chethana Sai Sree**
 
 GitHub: [@chethansree77](https://github.com/chethansree77)
+
+
+## 📸 Application Screenshots
+
+### 1. Home Page
+![AI Study Assistant Home Page](<assets/Home Page.png>)
+
+### 2. Summary Result
+![AI Study Assistant Summary Result](<assets/Summary Result.png>)
